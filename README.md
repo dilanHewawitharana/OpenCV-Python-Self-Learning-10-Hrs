@@ -8,6 +8,7 @@ https://www.youtube.com/watch?v=N81PCpADwKQ&t=2951s
 * Getting start with images
 * Getting start with videos
 * Drawing functions in OpenCV
+* Add text to video
 
  
 ## Demo
