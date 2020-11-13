@@ -23,3 +23,5 @@ https://www.youtube.com/watch?v=wx_oxF3vGRE
 https://www.youtube.com/watch?v=8ZhaK08FmGA
 
 * Basic operations of images
+https://www.youtube.com/watch?v=fiDZpn9QKr4
+
