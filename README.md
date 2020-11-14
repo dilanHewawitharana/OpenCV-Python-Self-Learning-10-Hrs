@@ -15,6 +15,7 @@ https://www.youtube.com/watch?v=N81PCpADwKQ&t=2951s
 * Bitwise operation
 * Trackbar example
 * Color filtering
+* Thresholding 
 
  
 ## Demo
