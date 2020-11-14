@@ -14,6 +14,7 @@ https://www.youtube.com/watch?v=N81PCpADwKQ&t=2951s
 * Basic operations of images
 * Bitwise operation
 * Trackbar example
+* Color filtering
 
  
 ## Demo
