@@ -13,6 +13,7 @@ https://www.youtube.com/watch?v=N81PCpADwKQ&t=2951s
 * Color extraction with mouse event
 * Basic operations of images
 * Bitwise operation
+* Trackbar example
 
  
 ## Demo
