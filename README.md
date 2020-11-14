@@ -17,6 +17,8 @@ https://www.youtube.com/watch?v=N81PCpADwKQ&t=2951s
 * Color filtering
 * Threshold
 * Adaptive threshold
+* Intro to Matplotlib
+* morphological operation
 
  
 ## Demo
