@@ -20,6 +20,7 @@ https://www.youtube.com/watch?v=N81PCpADwKQ&t=2951s
 * Intro to Matplotlib
 * morphological operation
 * Filters
+* Gradients
 
  
 ## Demo
