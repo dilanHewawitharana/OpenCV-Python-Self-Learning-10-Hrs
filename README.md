@@ -19,6 +19,7 @@ https://www.youtube.com/watch?v=N81PCpADwKQ&t=2951s
 * Adaptive threshold
 * Intro to Matplotlib
 * morphological operation
+* Filters
 
  
 ## Demo
