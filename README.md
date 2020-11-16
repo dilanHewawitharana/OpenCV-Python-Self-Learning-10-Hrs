@@ -22,6 +22,7 @@ https://www.youtube.com/watch?v=N81PCpADwKQ&t=2951s
 * Filters
 * Gradients
 * Canny edge detection
+* Gaussian pyramid
 
  
 ## Demo
