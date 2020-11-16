@@ -14,8 +14,10 @@ sobelY = np.uint8(np.absolute(sobelY))
 
 sobelCombined = cv2.bitwise_or(sobelX, sobelY)
 
-title = ['image', 'Laplacian', 'sobelX', 'sobelY', 'sobelCombined']
-images = [img, lap, sobelX, sobelY, sobelCombined]
+cannyEdges = cv2.Canny(img, 100, 200)
+
+title = ['image', 'Laplacian', 'sobelX', 'sobelY', 'sobelCombined', 'cannyEdges']
+images = [img, lap, sobelX, sobelY, sobelCombined, cannyEdges]
 
 for i in range(len(images)):
     plt.subplot(2, 3, i+1)

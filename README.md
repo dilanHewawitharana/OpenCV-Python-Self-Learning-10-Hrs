@@ -21,6 +21,7 @@ https://www.youtube.com/watch?v=N81PCpADwKQ&t=2951s
 * morphological operation
 * Filters
 * Gradients
+* Canny edge detection
 
  
 ## Demo
