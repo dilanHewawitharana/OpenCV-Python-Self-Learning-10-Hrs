@@ -26,6 +26,9 @@ https://www.youtube.com/watch?v=N81PCpADwKQ&t=2951s
 * Draw contours
 * Basic motion detection
 * Histogram
+* Template matching
+* Hough Transform - HoughLine
+
  
 ## Demo
 
