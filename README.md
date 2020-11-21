@@ -23,7 +23,8 @@ https://www.youtube.com/watch?v=N81PCpADwKQ&t=2951s
 * Gradients
 * Canny edge detection
 * Gaussian pyramid
-
+* Draw contours
+* Basic motion detection
  
 ## Demo
 
