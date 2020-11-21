@@ -25,6 +25,7 @@ https://www.youtube.com/watch?v=N81PCpADwKQ&t=2951s
 * Gaussian pyramid
 * Draw contours
 * Basic motion detection
+* Histogram
  
 ## Demo
 
