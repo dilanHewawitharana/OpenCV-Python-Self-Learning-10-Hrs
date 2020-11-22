@@ -29,6 +29,7 @@ https://www.youtube.com/watch?v=N81PCpADwKQ&t=2951s
 * Template matching
 * Hough Transform - HoughLine
 * Hough Transform - HoughLineP
+* Road lane detection
 
  
 ## Demo
@@ -41,4 +42,7 @@ https://www.youtube.com/watch?v=8ZhaK08FmGA
 
 * Basic operations of images
 https://www.youtube.com/watch?v=fiDZpn9QKr4
+
+* Basic motion detection using absolute difference between two consecutive images
+https://www.youtube.com/watch?v=QgS5ryrmLWY&feature=youtu.be
 
