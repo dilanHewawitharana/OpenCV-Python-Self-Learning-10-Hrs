@@ -28,6 +28,7 @@ https://www.youtube.com/watch?v=N81PCpADwKQ&t=2951s
 * Histogram
 * Template matching
 * Hough Transform - HoughLine
+* Hough Transform - HoughLineP
 
  
 ## Demo
