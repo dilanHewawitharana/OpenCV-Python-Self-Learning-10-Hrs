@@ -30,6 +30,8 @@ https://www.youtube.com/watch?v=N81PCpADwKQ&t=2951s
 * Hough Transform - HoughLine
 * Hough Transform - HoughLineP
 * Road lane detection
+* Hough circle transform
+* Haar Cascade
 
  
 ## Demo
@@ -45,4 +47,7 @@ https://www.youtube.com/watch?v=fiDZpn9QKr4
 
 * Basic motion detection using absolute difference between two consecutive images
 https://www.youtube.com/watch?v=QgS5ryrmLWY&feature=youtu.be
+
+* Road lane detection
+https://www.youtube.com/watch?v=9x82-e1uFGQ
 
