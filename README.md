@@ -34,6 +34,7 @@ https://www.youtube.com/watch?v=N81PCpADwKQ&t=2951s
 * Haar Cascade
 * Haris Corner Detector
 * MeanShift algo
+* CamShift algo
 
  
 ## Demo
