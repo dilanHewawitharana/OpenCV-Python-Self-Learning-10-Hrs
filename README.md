@@ -32,6 +32,7 @@ https://www.youtube.com/watch?v=N81PCpADwKQ&t=2951s
 * Road lane detection
 * Hough circle transform
 * Haar Cascade
+* Haris Corner Detector
 
  
 ## Demo
@@ -50,4 +51,8 @@ https://www.youtube.com/watch?v=QgS5ryrmLWY&feature=youtu.be
 
 * Road lane detection
 https://www.youtube.com/watch?v=9x82-e1uFGQ
+
+* Face + eye detection using Haar-Cascades
+https://www.youtube.com/watch?v=NR4FhaTgb_8
+
 
