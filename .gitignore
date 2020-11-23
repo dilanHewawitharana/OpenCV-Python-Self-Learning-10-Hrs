@@ -130,3 +130,9 @@ dmypy.json
 Output/output.avi
 Resources/human.avi
 Resources/man.avi
+Output/frame.png
+Resources/D1_roi.png
+Resources/dog01.PNG
+Resources/dog02.PNG
+Resources/dog_run.avi
+Resources/eagle.avi

@@ -33,6 +33,7 @@ https://www.youtube.com/watch?v=N81PCpADwKQ&t=2951s
 * Hough circle transform
 * Haar Cascade
 * Haris Corner Detector
+* MeanShift algo
 
  
 ## Demo
@@ -55,4 +56,6 @@ https://www.youtube.com/watch?v=9x82-e1uFGQ
 * Face + eye detection using Haar-Cascades
 https://www.youtube.com/watch?v=NR4FhaTgb_8
 
+* Object tracking using meanShift algo
+https://www.youtube.com/watch?v=ec7CckmUF8Y&feature=youtu.be
 
